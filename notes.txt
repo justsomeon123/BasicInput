@@ -1,0 +1,2 @@
+figure out how to compile all files together.
+- try to use ant or maven to compile the project.
